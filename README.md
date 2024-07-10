@@ -1,6 +1,6 @@
-# caladubo
+# Caladubo
 
-A new Flutter project.
+Um projeto desenvolvido em Flutter.
 
 ## Getting Started
 
